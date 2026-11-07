@@ -13,6 +13,11 @@ SOUNDS = {
     "червячки": "AwACAgQAAxkBAAMNau7ujz6BZd5Y6AnV6zJ1sSd6XBwAAlpCAAKT0ehSPBYsDpZvJ2M9BA",
     "bombardilo crocodilo": "AwACAgQAAxkBAAMPau7ut5Ab0nKwTn3BUYmd0CirWZIAAkBCAAKT0ehSW_CeCP8PNkM9BA",
     "минетики": "AwACAgQAAxkBAAMRau7u6NyrnfU3VJWaYDE91d7ZS84AArEfAAKRrcFSghU-ymBsmd09BA",
+    "папа окси": "AwACAgQAAxkBAAMTau71yFT6SHFnIOdebWDGGc9sirEAAlgfAAKRrcFS_x_5S8B8C4k9BA",
+    "арбуз, арбуз": "AwACAgQAAxkBAAMVau716GPEkfAFMVIfeTU3cyRDKScAAgkhAAJ9RrFSmwGFwEPBNUQ9BA",
+    "тампоны для Алены": "AwACAgQAAxkBAAMXau72Defhb35IjxJSyj2L5jh1J9gAAo8gAAJ9RrFSO4JeczoY8-U9BA"
+    "Виктор": "AwACAgIAAxkBAAMZau72JuisL_wNY0r-brOOI1GlC-8AAiBhAAKSyfhKmAlvPSpsF989BA",
+    "К*отак бл*ять": "AwACAgIAAxkBAAMbau72XS4RwL-Gei5RVerjYpsPj6MAAvxgAAKSyfhK1dKGVxc_JTs9BA",
 }
 
 bot = Bot(token=BOT_TOKEN)
